@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Maps/Chatting.umap",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/Player/BP_PlayerController.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/Game/BP_GameModeBase.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/UI/WBP_ChatInput.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/Game/BP_GameStateBase.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/Player/BP_PlayerState.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Blueprint/UI/WBP_NotificationText.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/UI/WBP_ChatInput.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Game/BP_GameModeBase.uasset",
+				"D:/UE5/NBC_Homework4/NBCChat/Content/NBCChat/Player/BP_PlayerController.uasset"
+			]
+		}
+	]
+}

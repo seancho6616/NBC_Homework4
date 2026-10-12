@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NBCChat.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBCChat.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NBCChatEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NBCChat">
+      <UniqueIdentifier>{CA85EE87-8E45-3BDD-92F6-03248CC8406A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBCChat\NBCChat.Build.cs">
+      <Filter>Source\NBCChat</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NBCChat\NBCChat.cpp">
+      <Filter>Source\NBCChat</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\NBCChat.h">
+      <Filter>Source\NBCChat</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBCChat\Game">
+      <UniqueIdentifier>{11B63B65-4351-3EA9-9612-00D070BD5147}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBCChat\Game\NBCChatGameModeBase.cpp">
+      <Filter>Source\NBCChat\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Game\NBCChatGameModeBase.h">
+      <Filter>Source\NBCChat\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Game\NBCChatGameStateBase.cpp">
+      <Filter>Source\NBCChat\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Game\NBCChatGameStateBase.h">
+      <Filter>Source\NBCChat\Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBCChat\Player">
+      <UniqueIdentifier>{E39D1CE8-E69D-3A1B-AF1D-1C17991632D9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBCChat\Player\NBCChatPlayerController.cpp">
+      <Filter>Source\NBCChat\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Player\NBCChatPlayerController.h">
+      <Filter>Source\NBCChat\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Player\NBCChatPlayerState.cpp">
+      <Filter>Source\NBCChat\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\Player\NBCChatPlayerState.h">
+      <Filter>Source\NBCChat\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBCChat\UI">
+      <UniqueIdentifier>{122864E7-896E-38E2-B889-E1E60AFB151A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBCChat\UI\NBCChatInput.cpp">
+      <Filter>Source\NBCChat\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBCChat\UI\NBCChatInput.h">
+      <Filter>Source\NBCChat\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

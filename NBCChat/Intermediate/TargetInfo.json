@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NBCChat",
+			"Path": "..\\Source\\NBCChat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NBCChatEditor",
+			"Path": "..\\Source\\NBCChatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

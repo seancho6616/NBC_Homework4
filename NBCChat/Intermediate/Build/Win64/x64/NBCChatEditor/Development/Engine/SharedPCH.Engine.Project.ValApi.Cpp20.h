@@ -1,0 +1,3 @@
+// PCH for Runtime/Engine/Public/EngineSharedPCH.h
+#include "D:/UE5/Homework4/NBC_Homework4/NBCChat/Intermediate/Build/Win64/x64/NBCChatEditor/Development/Engine/SharedDefinitions.Engine.Project.ValApi.Cpp20.h"
+#include "Runtime/Engine/Public/EngineSharedPCH.h"

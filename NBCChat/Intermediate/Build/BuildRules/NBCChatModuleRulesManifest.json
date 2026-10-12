@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\Homework4\\NBC_Homework4\\NBCChat\\Source\\NBCChat\\NBCChat.Build.cs",
+		"D:\\UE5\\Homework4\\NBC_Homework4\\NBCChat\\Source\\NBCChat.Target.cs",
+		"D:\\UE5\\Homework4\\NBC_Homework4\\NBCChat\\Source\\NBCChatEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

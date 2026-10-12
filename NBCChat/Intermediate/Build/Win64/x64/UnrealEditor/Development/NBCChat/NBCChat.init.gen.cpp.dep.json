@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\homework4\\nbc_homework4\\nbcchat\\intermediate\\build\\win64\\unrealeditor\\inc\\nbcchat\\uht\\nbcchat.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\homework4\\nbc_homework4\\nbcchat\\intermediate\\build\\win64\\x64\\nbcchateditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5\\homework4\\nbc_homework4\\nbcchat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbcchat\\definitions.nbcchat.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
